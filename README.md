@@ -14,6 +14,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VimothSusara&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VimothSusara&theme=dark&hide_border=false)<br/>
 
+### Leetcode Badges
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=vimothsusara)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
