@@ -15,7 +15,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VimothSusara&theme=dark&hide_border=false)<br/>
 
 ### Leetcode Badges
-![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=vimothsusara)
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=vimothsusara&theme=github-dark)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
